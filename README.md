@@ -67,7 +67,3 @@ Contributions are welcome! If you have ideas for improvements or want to fix a b
 3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`).
 4.  Push to the branch (`git push origin feature/AmazingFeature`).
 5.  Open a PullRequest.
-
-## 📄 License
-
-This project is currently not licensed. Please add a license if you intend to distribute or share it.
